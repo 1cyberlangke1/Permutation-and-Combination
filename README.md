@@ -49,7 +49,7 @@ n是所有元素数，k是取出的元素数~ (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
 
 返回的是k个元素的组合数量喔~ (*/▽＼*)  
 
-注意哦~ $n\in[0,20], k\in[0,20]$ 喔~ 不在这范围内是违法滴，会返回-1的喔~  
+注意哦~ $n\in[0,20], k\in[0,20], n>=k$ 喔~ 不在这范围内是违法滴，会返回-1的喔~  
 
 # 其他  
 
@@ -108,7 +108,7 @@ n is the total number of elements, k is the number of elements taken~ (⁄ ⁄>�
 
 It returns the number of combinations of k elements~ (*/▽＼*)  
 
-Be careful~ $n\in[0,20], k\in[0,20]$ Okay~ If it's not in this range, it's considered illegal, and -1 will be returned~  
+Be careful~ $n\in[0,20], k\in[0,20], n>=k$ Okay~ If it's not in this range, it's considered illegal, and -1 will be returned~  
 
 # Other  
 

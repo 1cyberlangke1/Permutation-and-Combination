@@ -20,8 +20,7 @@ Long Long C(int n,int k);
 
 什么你不知道什么是排列和组合?  
 
-[wiki-排列]: https://zh.wikipedia.org/wiki/%E6%8E%92%E5%88%97
-[wiki-组合]: https://zh.wikipedia.org/wiki/%E7%B5%84%E5%90%88#cite_ref-1
+[wiki-排列](https://zh.wikipedia.org/wiki/%E6%8E%92%E5%88%97)   [wiki-组合](https://zh.wikipedia.org/wiki/%E7%B5%84%E5%90%88#cite_ref-1)
 
 # 使用方法  
 
@@ -50,6 +49,6 @@ n为所有元素数，k为取出的元素数
 
 # 其他  
 
-为什么只支持到20?因为Long Long类型只能存下$20!$  
+为什么只支持到20?因为Long Long类型只能存下 $20!$   
 
 菜狗大学生随便写的，代码很简单，主要还是试试markdown怎么写~  

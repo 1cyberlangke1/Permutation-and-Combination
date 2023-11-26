@@ -1,6 +1,7 @@
 # Permutation-and-Combination  
 
-#-[English by ChatGPT3.5](#Directory)     -[简体中文](#目录)   
+# 语言  
+[English by ChatGPT3.5](#Directory)     [简体中文](#目录)   
 
 #  目录  
 - [简介](#简介)  
@@ -56,7 +57,8 @@ n是所有元素数，k是取出的元素数~ (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
 
 这是一位菜狗的大学生写的啦，代码好简单滴，主要是想试试markdown怎么写的呢~ (¬‿¬)✨  
     
- #-[English by ChatGPT3.5](#Directory)     -[简体中文](#目录)   
+ # language  
+ [English by ChatGPT3.5](#Directory)     [简体中文](#目录)   
 
    
 
